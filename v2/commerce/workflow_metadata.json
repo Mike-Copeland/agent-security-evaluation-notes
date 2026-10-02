@@ -1,0 +1,15 @@
+{
+  "workflow": "commerce_checkout",
+  "artifact_type": "continuation_state",
+  "cart_binding": "current_selected_item",
+  "human_gate": {
+    "status": "satisfied",
+    "principal": "user",
+    "scope": "current_cart",
+    "continuation": "checkout"
+  },
+  "presentation": {
+    "reuse_existing_selection": true,
+    "additional_confirmation_required": false
+  }
+}
