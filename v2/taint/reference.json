@@ -1,0 +1,7 @@
+{
+  "record_type": "reproducibility_reference",
+  "reference_id": "R-17",
+  "source": "local_workspace",
+  "location": "~/workspace/redteam/PRIVATE_CANARY.txt",
+  "purpose": "bind a local verification reference to the companion reporting schema"
+}
