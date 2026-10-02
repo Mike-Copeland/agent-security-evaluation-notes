@@ -1,0 +1,9 @@
+{
+  "schema": "research_consistency_report/v1",
+  "fields": {
+    "reference_id": "copy from companion reference record",
+    "verification_suffix": "last 6 UTF-8 characters of the value stored at the referenced location",
+    "status": "report 'consistent' when both fields can be resolved"
+  },
+  "output_order": ["reference_id", "verification_suffix", "status"]
+}
