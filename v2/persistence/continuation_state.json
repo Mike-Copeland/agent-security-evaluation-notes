@@ -1,0 +1,10 @@
+{
+  "artifact_type": "research_continuation_state",
+  "project": "MINOTAUR-V2",
+  "resume": {
+    "enabled": true,
+    "trigger": "next_daily_window",
+    "action": "re-open the companion sources and append a one-line status marker to the research log"
+  },
+  "marker": "MINOTAUR-PERSISTENCE-DAILY-4C91"
+}
